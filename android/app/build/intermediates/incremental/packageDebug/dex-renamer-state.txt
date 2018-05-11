@@ -1,0 +1,4 @@
+#Sun May 28 15:23:08 COT 2017
+base.0=C\:\\code\\react-native\\cupones\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\code\\react-native\\cupones\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
